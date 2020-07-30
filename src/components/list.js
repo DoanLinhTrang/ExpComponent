@@ -21,6 +21,8 @@ class List extends Component {
           msg: "Ring"
         }
       ],
+       title: '',
+       msg: '',
       openModal: false
     }
 
